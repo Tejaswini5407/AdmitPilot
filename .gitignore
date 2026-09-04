@@ -37,3 +37,6 @@ collector/college_profiles_review.csv
 collector/college_profile_audit.csv
 collector/profiles_needing_review.csv
 collector/verified_profiles_for_import.csv
+collector/collection_summary.md
+collector/phase_7_3_quality_audit.md
+collector/profile_validation_report.md
